@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Scientists>
+    <Scientist
+	      Name = "Омельчук Людмила Леонідівна"
+              Faculty = "Кібернетика"
+              Department = "ТТП"
+              ScientyDegree = "Кандидат фізико-математичних наук"
+              AcademicStatus = "Доцент">
+    </Scientist>
+    <Scientist
+	      Name = "Анікушин Андрій Валерійович"
+              Faculty = "Кібернетика"
+              Department = "ОМ"
+              ScientyDegree = "Кандидат фізико-математичних наук"
+              AcademicStatus = "Доцент">
+    </Scientist>
+</Scientists>

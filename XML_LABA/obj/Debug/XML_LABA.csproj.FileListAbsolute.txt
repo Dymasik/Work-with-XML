@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\XML_LABA\XML_LABA\obj\Debug\XML_LABA.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\XML_LABA\XML_LABA\obj\Debug\XML_LABA.Form.resources
+C:\Users\Lenovo\source\repos\XML_LABA\XML_LABA\obj\Debug\XML_LABA.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\XML_LABA\XML_LABA\obj\Debug\XML_LABA.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\XML_LABA\XML_LABA\obj\Debug\XML_LABA.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\XML_LABA\XML_LABA\bin\Debug\XML_LABA.exe.config
+C:\Users\Lenovo\source\repos\XML_LABA\XML_LABA\bin\Debug\XML_LABA.exe
+C:\Users\Lenovo\source\repos\XML_LABA\XML_LABA\bin\Debug\XML_LABA.pdb
+C:\Users\Lenovo\source\repos\XML_LABA\XML_LABA\obj\Debug\XML_LABA.exe
+C:\Users\Lenovo\source\repos\XML_LABA\XML_LABA\obj\Debug\XML_LABA.pdb
